@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -gB8
 -gt
 -gT FFFFFF
@@ -5,3 +6,12 @@
 #metatile
 -Mh4
 -Mw4
+=======
+-gB8
+-gt
+-gT FFFFFF
+
+#metatile
+-Mh4
+-Mw4
+>>>>>>> 09bf57a2209d2f8718808e1f34adc55117b2738a
